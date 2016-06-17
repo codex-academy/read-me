@@ -1,0 +1,8 @@
+# Site settings
+title: Read Me
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jemoji
