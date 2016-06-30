@@ -16,6 +16,8 @@ Anything else?
 
 ## Install the dependencies
 
-How does someone install the dependencies they need for your project? If they run `npm install`, how does NodeJS know what things to install? (You've run `npm install --save-dev <modulename>` a few times now when building your app. What does the `--save-dev` do?)
+How does someone install the dependencies they need for your project? If they run `npm install`, how does NodeJS know what things to install?
+
+You've run `npm install --save <modulename>` a few times now when coding your app. What does it do? What if we switched `--save` for `--save-dev`? If you're not sure, have a look at [Specifying Packages](https://docs.npmjs.com/getting-started/using-a-package.json#specifying-packages) in the npm docs.
 
 How about the database? What scripts does someone have to run to set up their local database?
