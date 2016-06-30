@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Read me!
-unitstandard: 115388-SO1-AC1, 115388-SO1-AC2
+unitstandard: 115388-SO1-AC1, 115388-SO1-AC2, 115362-SO1-AC1, 115362-SO1-AC2
 ---
 
 # Read me!
@@ -23,7 +23,7 @@ You should cover all the things that are relevant to your app. Things like insta
 
 **Make a checklist** of all the things that someone will have to do to run your app on their machine. Think about:
 
-* getting the code from GitHub to their machine;
+* getting the git repository from GitHub to their machine (either by cloning the original or a fork);
 * installing any system software they'll need (like NodeJS and MySQL);
 * installing any dependencies your application needs (like Express and Handlebars);
 * running the tests.
