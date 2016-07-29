@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Read me!
-unitstandard: 115388-SO1-AC1, 115388-SO1-AC2, 115362-SO1-AC1, 115362-SO1-AC2
+unitstandard: 115388-SO1-AC1, 115388-SO1-AC2, 115362-SO1-AC1, 115362-SO1-AC2, 115362-SO2-AC2
 ---
 
 # Read me!
