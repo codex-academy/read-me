@@ -6,7 +6,7 @@ unitstandard: 115362-SO1-AC2, 115362-SO2-AC2
 
 ## Formative assessment 1 (115362-SO1-AC2)
 
-The candidate's repository contains a `package.json` file in the root directory.
+The candidate's repository contains a `package.json` file in the root directory. All the dependencies the application needs are specified in the `dependencies` or `dev-dependencies` section. The application can startup after deleting the `node_modules` folder and doing and `npm install`.
 
 ## Formative assessment 2 (115362-SO2-AC2)
 
