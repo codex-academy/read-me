@@ -23,7 +23,7 @@ You should cover all the things that are relevant to your app. Things like insta
 
 **Make a checklist** of all the things that someone will have to do to run your app on their machine. Think about:
 
-* getting the git repository from GitHub to their machine (either by cloning the original or a fork);
+* getting the git repository from GitHub to their machine (either by cloning the original or making a fork);
 * installing any system software they'll need (like NodeJS and MySQL);
 * installing any dependencies your application needs (like Express and Handlebars);
 * running the tests.
