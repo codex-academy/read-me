@@ -25,4 +25,4 @@ The candidate's repository contains a `README.md` that contains:
 
 ## Formative assessment 4
 
-The candidate's README has been peer reviewed.
+The candidate's README has been peer reviewed. An issue has been raised in Github by the candidate and allocated to a peer. The peer commented on the issue and confirmed the peer review was done and what the outcome was.
