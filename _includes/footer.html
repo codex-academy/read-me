@@ -2,7 +2,7 @@
   <nav class="main-nav" id="menu">
     <ol>
       {% assign currentpage = page.url %}
-      {% assign menu_items = sites.pages | where:"layout","default" %}
+      {% assign menu_items = site.pages | where:"layout","default" %}
       {% for page in menu_items %}
         {% unless page.url contains ".css" %}
           <li>
