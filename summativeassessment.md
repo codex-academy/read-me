@@ -32,7 +32,9 @@ You may only ask questions and reply via Github Issues. This conversation will b
 2. Open your repository, and click on Issues.
 3. Update the Filter to select only issues created by that Github user
  * `Is:issue author:CTcodeX`
+ 
  ![Filter Issues](/images/codeX-GitHub-Filter-Issues.png)
+ 
 4. Copy the URL into your PoE form, under Summative Assessment:
  * `https://github.com/avermeulen/quizz-me/issues?utf8=%E2%9C%93&q=is%3Aissue%20author%3ACTcodeX`
 
