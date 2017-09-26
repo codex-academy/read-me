@@ -2,8 +2,9 @@
   <nav class="main-nav" id="menu">
     <ol>
       {% assign currentpage = page.url %}
-      {% for page in site.pages %}
-        {% unless page.url contains ".css" || unless page.exclude %}
+      {% assign menu_items = sites.pages | where: "layout", "default" %}
+      {% for page in menu_items %}
+        {% unless page.url contains ".css" %}
           <li>
             <a href="{{ site.baseurl }}{{ page.url }}" {% if currentpage == page.url %}class = "active"{% endif %}>{{ page.title }}</a>
           </li>
