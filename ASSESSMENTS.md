@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 unitstandard: 115362-SO1-AC2, 115362-SO2-AC2
 
 # Assessments
