@@ -1,5 +1,6 @@
 ---
 layout: single
+menu_item: no
 ---
 
 unitstandard: 115362-SO1-AC2, 115362-SO2-AC2
