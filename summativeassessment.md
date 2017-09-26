@@ -1,4 +1,6 @@
-
+---
+layout: single
+---
 
 # Summative Assessment: Systems Documentation
 
