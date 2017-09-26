@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Facilitator notes
 
 ## Read me!
